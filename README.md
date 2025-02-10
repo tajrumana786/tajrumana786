@@ -1,11 +1,5 @@
-Hello! I'm Rumana, a tech enthusiast from India embarking on my master's journey in Computer science in Data science at University of Missouri Kansas city. With a background in computer science engineering and who's walked the corridors of corporate power in Wipro Technologies as a Quality assurance engineer. Now, I'm crafting a new narrative in Data science, where the data speaks, and insights guide the way.
+Hello there! I am a data analyst with a Master’s in Data Science from the University of Missouri-Kansas City (UMKC) and 2+ years of experience in financial data analysis, machine learning, and data visualization. My expertise lies in SQL, Python, Power BI, and data pipeline optimization, with a strong focus on developing machine learning models to extract insights and drive strategic decision-making.
 
-Technical Skills
-
-Languages: Java, Python, C/C++, SQL, JavaScript, HTML/CSS, R
-
-Frameworks: React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI
-
-Developer Tools: Git, Docker, TravisCI, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
+I have worked extensively with large-scale financial data, analyzing 1M+ transactions to enhance fraud detection and boost operational efficiency. My skills include building interactive dashboards, automating reporting workflows, and collaborating with cross-functional teams to implement data-driven solutions. Additionally, I have a deep understanding of BSA/AML regulations, GDPR & CCPA compliance, and SDLC methodologies (Agile, Waterfall).
 
 
